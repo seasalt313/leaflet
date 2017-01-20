@@ -1,0 +1,22 @@
+body {
+  background-image: url('/Users/mariamqasim/desktop/tiy/carmen2/images/praha.jpg');
+  background-size: cover;
+  background-opacity: .5;
+  border: 10px solid beige;
+  padding: 40px;
+  margin: 60px;
+  text-align: center;
+  color: black;
+  font-family: 'Exo', sans-serif;
+
+}
+
+#mapid {
+  height: 400px;
+  width: 60%;
+  margin: auto;
+}
+
+#history {
+  background-color: grey;
+}
